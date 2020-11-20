@@ -1,0 +1,12 @@
+com/example/roomdatabase/BuildConfig.java
+ com.example.roomdatabase.BuildConfig
+com/example/roomdatabase/MainAdapter.java
+ com.example.roomdatabase.MainAdapter
+ com.example.roomdatabase.MainAdapter$1
+ com.example.roomdatabase.MainAdapter$1$1
+ com.example.roomdatabase.MainAdapter$2
+ com.example.roomdatabase.MainAdapter$ViewHolder
+com/example/roomdatabase/MainActivity.java
+ com.example.roomdatabase.MainActivity
+ com.example.roomdatabase.MainActivity$1
+ com.example.roomdatabase.MainActivity$2
