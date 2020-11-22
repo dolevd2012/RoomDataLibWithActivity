@@ -26,7 +26,7 @@ allprojects {
 Add this to your module's build.gradle file (Note: version should match the jitpack badge above)
 ```
 dependencies {
-	implementation 'com.github.dolevd2012:RoomDataLib:1.00.01'
+	implementation 'com.github.dolevd2012:RoomDataLibWithActivity:1.00.01'
 }
 ```
 ## Usage
